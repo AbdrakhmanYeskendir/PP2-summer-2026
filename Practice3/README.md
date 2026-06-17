@@ -37,7 +37,7 @@ This practice contains Python examples for functions, lambda expressions, classe
 ## Folder Structure
 
 ```text
-Practice-03/
+Practice3/
 ├── functions/
 │   ├── basic_functions.py
 │   ├── function_arguments.py
