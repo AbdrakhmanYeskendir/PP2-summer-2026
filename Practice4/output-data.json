@@ -1,0 +1,23 @@
+{
+    "student_count": 3,
+    "students": [
+        {
+            "id": 1,
+            "name": "Yeskendir",
+            "major": "Computer Science",
+            "average_grade": 84.33
+        },
+        {
+            "id": 2,
+            "name": "Ali",
+            "major": "Information Systems",
+            "average_grade": 83.33
+        },
+        {
+            "id": 3,
+            "name": "Dana",
+            "major": "Data Science",
+            "average_grade": 91.67
+        }
+    ]
+}
